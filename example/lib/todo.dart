@@ -1,4 +1,9 @@
 import 'package:todo_reporter/todo_reporter.dart';
 
-@Todo('Complete implementation of TestClass')
-class TestClass {}
+part 'todo.g.dart';
+
+@Entity()
+class Test {
+  int id;
+  String name;
+}

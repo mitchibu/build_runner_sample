@@ -1,4 +1,4 @@
-import 'package:test/test.dart';
+/*import 'package:test/test.dart';
 
 import 'package:todo_reporter_generator/todo_reporter_generator.dart';
 
@@ -11,3 +11,4 @@ void main() {
     expect(() => calculator.addOne(null), throwsNoSuchMethodError);
   });
 }
+*/
